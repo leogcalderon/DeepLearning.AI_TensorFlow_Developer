@@ -1,4 +1,4 @@
-# DeepLearning.AI TensorFlow Developer Professional Certificate program
+# DeepLearning.AI TensorFlow Developer
 
 ![courses](courses.png)
 
